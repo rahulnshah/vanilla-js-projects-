@@ -71,7 +71,7 @@ button.addEventListener('click', selectionSortIt);
 inputEle.addEventListener('keyup', replaceH3);
 formEle.addEventListener('submit', addTheItemToList);
 
-//para.addEventListener('ArrowDown', shirnk);
+
 
 
 
